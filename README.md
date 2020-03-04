@@ -6,3 +6,5 @@ Next steps :
 - Powers
 - Ui
 - Ai
+- Multiples game
+- Highscore
